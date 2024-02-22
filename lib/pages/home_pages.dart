@@ -16,7 +16,7 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         centerTitle: true,
         title: const Text("Diana Margarita Hernandez Arteaga"),
-        backgroundColor: Color.fromARGB(255, 52, 191, 230),
+        backgroundColor: Color.fromARGB(255, 221, 103, 188),
       ),
       body: Center(
           child: Column(
